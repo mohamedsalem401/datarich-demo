@@ -3,7 +3,27 @@ title: Global CO2 Emissions Analysis
 authors: [Jane Doe, John Smith]
 date: "2023-11-30"
 ---
+```
+# Install dataflows
+python install dataflows
 
+# Run the script
+python london-data:
+```
+```md
+# Install dataflows
+python install dataflows
+
+# Run the script
+python london-data:
+```
+```python
+# Install dataflows
+python install dataflows
+
+# Run the script
+python london-data:
+```
 ![[climate-change.jpeg]]
 
 [Here is the source file on GitHub](https://github.com/datopian/datarich-demo/blob/main/posts/story1.md) used to render this page.
