@@ -54,6 +54,14 @@ The following bar chart compares emissions from different sources in 2010. It il
   }}
 />
 
+```
+# Install dataflows
+python install dataflows
+
+# Run the script
+python london-data:
+```
+
 ## Conclusion
 
 This analysis of the global CO2 emissions dataset reveals several critical insights:
