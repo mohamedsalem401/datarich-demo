@@ -49,6 +49,8 @@ datapackage:
       - VIX Close
       type: line
     specType: simple
+    resources: 
+      - vix-daily
     title: VIX - CBOE Volatility Index
 ---
 
