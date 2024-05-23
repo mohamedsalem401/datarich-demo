@@ -1,5 +1,31 @@
 # Welcome to our Guide on Data-Rich Documents!
 
+<Map
+  center={{
+    latitude: 45,
+    longitude: 0
+  }}
+  layers={[
+    {
+      colorScale: {
+        ending: '#00ff00',
+        starting: '#ff0000'
+      },
+      data: {
+        url: 'https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_10m_geography_marine_polys.geojson'
+      },
+      name: 'Polygons',
+      tooltip: {
+        propNames: [
+          'name'
+        ]
+      }
+    }
+  ]}
+  title="Seas and Oceans Map"
+  zoom={2}
+/>
+
 Discover how to elevate your data storytelling and analysis with DataHub. This guide introduces the concept of data-rich documents, provides practical tutorials, and showcases examples to illustrate their potential.
 
 ## Tutorials
