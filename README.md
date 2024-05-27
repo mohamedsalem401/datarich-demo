@@ -16,7 +16,7 @@ Explore how data-rich documents can transform your data presentation:
 
 👀 [[story2|Dataset example]]: See how datasets can be presented in an accessible, visually engaging manner.
 
-## But wait, what is a data-rich document? 
+### But wait, what is a data-rich document? 
 
 ![[data-rich-document.png]]
 
@@ -24,7 +24,7 @@ A data-rich document is just a classic markdown document but with some superpowe
 
 And so, in data-rich documents, the writer can easily mix formatted text content with data visualisations. This means that you don't have to code or embed your charts and tables; they can be added to the document with a very simple syntax, either by passing inline data or simply referencing your data files. What you end up with is a plain text, human-readable document enriched with data visualisations, that is simple to edit and looks awesome when published with DataHub.
 
-## What does the syntax look like?
+#### What does the syntax look like?
 
 The structure and text formatting of the documents are created with simple markdown. But it's not just markdown; it's markdown on steroids: writers are capable of easily adding tables of contents, mathematical formulas, data visualisations, and more!
 
@@ -76,7 +76,7 @@ Awesome, right? Even more awesome is that this chart is created by simply having
 
 **Explore the Full Source:** You can check out the full source of the data-rich document you are reading [here](https://github.com/datopian/datarich-demo).
 
-## Learn More
+### Learn More
 
 📚 **Supported Markdown Features:** For a full list of supported markdown features, visit [our syntax guide](https://flowershow.app/docs/syntax).
 
